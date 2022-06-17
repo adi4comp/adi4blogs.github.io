@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adiboy Blogs</title>
+    
+    
+    
+    <link>http://example.org/</link>
+    <description>Recent content on Adiboy Blogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jun 2022 01:44:12 +0530</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World!</title>
+      <link>http://example.org/posts/blog-entry-01/</link>
+      <pubDate>Sat, 18 Jun 2022 01:44:12 +0530</pubDate>
+      
+      <guid>http://example.org/posts/blog-entry-01/</guid>
+      <description>
+        
+          &lt;img src=&#34;http://example.org/posts/blog-entry-01/mario-hi-unscreen.gif&#34;/&gt;
+          
+        
+        
+        
+          Hello Readers, Welcome to Adiboy&amp;rsquo;s Blogs!#Why am I starting to write blogs?#I always wanted to write blogs. On many nights when i go to sleep, I feel like sharing about my day with someone or maybe write a diary entry or sometimes share good memmories on social media, but I dont know why, but I dont feel comfortable doing any of that. So yeah, I guess Blogs will work.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
