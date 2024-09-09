@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>about on Adiboy Blogs</title>
+    <title>About on Adiboy Blogs</title>
     <link>https://adi4blogs.netlify.app/categories/about/</link>
-    <description>Recent content in about on Adiboy Blogs</description>
+    <description>Recent content in About on Adiboy Blogs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Jun 2022 01:44:12 +0530</lastBuildDate><atom:link href="https://adi4blogs.netlify.app/categories/about/index.xml" rel="self" type="application/rss+xml" />
@@ -21,7 +21,7 @@ But only some basic understandable writeups and something I wish I could have sa
 &lt;p&gt;So yeah thats it.
 &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;Signing off &lt;br&gt;
-&lt;a href=&#34;https://github.com/Adiboy3112&#34;&gt;Aditya Ranjan Jha&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://github.com/adi4comp&#34;&gt;Aditya Ranjan Jha&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
