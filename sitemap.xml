@@ -2,25 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://adi4blogs.netlify.app/tags/about-2.0/</loc>
-    <lastmod>2024-09-08T10:42:51+08:00</lastmod>
-  </url><url>
     <loc>https://adi4blogs.netlify.app/</loc>
-    <lastmod>2024-09-08T10:42:51+08:00</lastmod>
+    <lastmod>2024-09-14T09:33:19+05:30</lastmod>
   </url><url>
     <loc>https://adi4blogs.netlify.app/categories/</loc>
+    <lastmod>2024-09-14T09:33:19+05:30</lastmod>
+  </url><url>
+    <loc>https://adi4blogs.netlify.app/categories/gyaan/</loc>
+    <lastmod>2024-09-14T09:33:19+05:30</lastmod>
+  </url><url>
+    <loc>https://adi4blogs.netlify.app/tags/life-lessons/</loc>
+    <lastmod>2024-09-14T09:33:19+05:30</lastmod>
+  </url><url>
+    <loc>https://adi4blogs.netlify.app/posts/</loc>
+    <lastmod>2024-09-14T09:33:19+05:30</lastmod>
+  </url><url>
+    <loc>https://adi4blogs.netlify.app/posts/blog-entry-11/</loc>
+    <lastmod>2024-09-14T09:33:19+05:30</lastmod>
+  </url><url>
+    <loc>https://adi4blogs.netlify.app/tags/</loc>
+    <lastmod>2024-09-14T09:33:19+05:30</lastmod>
+  </url><url>
+    <loc>https://adi4blogs.netlify.app/tags/about-2.0/</loc>
     <lastmod>2024-09-08T10:42:51+08:00</lastmod>
   </url><url>
     <loc>https://adi4blogs.netlify.app/posts/blog-entry-10/</loc>
     <lastmod>2024-09-08T10:42:51+08:00</lastmod>
   </url><url>
     <loc>https://adi4blogs.netlify.app/categories/life-update/</loc>
-    <lastmod>2024-09-08T10:42:51+08:00</lastmod>
-  </url><url>
-    <loc>https://adi4blogs.netlify.app/posts/</loc>
-    <lastmod>2024-09-08T10:42:51+08:00</lastmod>
-  </url><url>
-    <loc>https://adi4blogs.netlify.app/tags/</loc>
     <lastmod>2024-09-08T10:42:51+08:00</lastmod>
   </url><url>
     <loc>https://adi4blogs.netlify.app/posts/blog-entry-09/</loc>
