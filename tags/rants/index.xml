@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rants on Adiboy Blogs</title>
+    <title>Rants on Aditya Unfiltered</title>
     <link>https://adi4blogs.netlify.app/tags/rants/</link>
-    <description>Recent content in Rants on Adiboy Blogs</description>
+    <description>Recent content in Rants on Aditya Unfiltered</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 30 Jun 2023 05:59:27 -0400</lastBuildDate><atom:link href="https://adi4blogs.netlify.app/tags/rants/index.xml" rel="self" type="application/rss+xml" />

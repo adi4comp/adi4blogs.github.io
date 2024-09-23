@@ -1,12 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Adiboy Blogs</title>
+    <title>Posts on Aditya Unfiltered</title>
     <link>https://adi4blogs.netlify.app/posts/</link>
-    <description>Recent content in Posts on Adiboy Blogs</description>
+    <description>Recent content in Posts on Aditya Unfiltered</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Sep 2024 09:33:19 +0530</lastBuildDate><atom:link href="https://adi4blogs.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Sep 2024 22:34:20 +0800</lastBuildDate><atom:link href="https://adi4blogs.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lessons in Patience, Focus, and Output</title>
+      <link>https://adi4blogs.netlify.app/posts/blog-entry-12/</link>
+      <pubDate>Sun, 22 Sep 2024 22:34:20 +0800</pubDate>
+      
+      <guid>https://adi4blogs.netlify.app/posts/blog-entry-12/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;image.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The world has a strange way of humbling you, especially when you don’t realize you’re wrong. If you’re lucky enough, you’ll recognize what’s happening before it’s too late. Just last year, during an internship project, I found myself adapting to the problem statement much faster than my teammates. This gave me a sense of superiority—I used to get frustrated when they couldn’t keep up and contribute equally. I convinced myself that they weren’t putting in as much effort, which made it easy to look down on them for not pulling their weight.
+At that time, I grew resistant to group projects where one person seems to do all the work while others bask in the success. However, life has a way of bringing you full circle. In my current project, I’m working on an exciting problem with a colleague who is much smarter, more organized, and meticulous than I am. This has been a humbling experience. While I sometimes feel disappointed when things don’t go my way or when I can’t lead from the front like I’m accustomed to, I recently realized how slow of a learner I am compared to him.
+What struck me yesterday was how quickly he picked up concepts in a field that’s completely new to both of us, while I spent a whole week getting nowhere. In one hour of structured thinking, he helped me generalize a solution that took me days of effort to even brute-force. It gave me a strange sense of déjà vu, reminding me of my impatience during previous internships when I was in the stronger position.
+I now realize that I had wrongly assumed my former colleagues weren’t trying as hard as I was. I didn’t take their learning speed into account. My colleague today is far more patient with me than I ever was with my teammates. I’m grateful for this realization, and all I can say is looking forward if I am in a similar position again, I will be much better.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;the-minds-maze-keeping-track-of-the-core-idea&#34;&gt;The Mind’s Maze: Keeping Track of the Core Idea &lt;a href=&#34;#the-minds-maze-keeping-track-of-the-core-idea&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Another important realization I’ve had is how easily you can get lost in your thoughts, and how important it is to stay grounded. It’s all too common to lose track of the core idea when you’re deeply immersed in thought. This is why it’s crucial to note down important points—especially when you take a break.
+When you write down what you’ve done and evaluate how much it contributes to the solution, it helps you recognize whether you’ve wandered off course. Successful people often say it’s easy to control your mind, but for me, trying to control a thought often leads to distractions. The mind works recursively, pulling you off-topic the moment you try to focus. Writing things down keeps you tethered so that even if you get lost, you can always return to your original line of thinking.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;output-over-input-finding-a-balance&#34;&gt;Output Over Input: Finding a Balance &lt;a href=&#34;#output-over-input-finding-a-balance&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Recently, someone told me, &amp;ldquo;Nobody cares about the input; everyone wants the output.&amp;rdquo; As intimidating as that sounds, it’s true. You can use this mindset to stay productive by constantly thinking about how your actions contribute to the final result. But it’s not always the best approach. Sometimes, when you can&amp;rsquo;t see a fully formed solution, you waste time trying to force it.
+Sometimes, when a solution feels trivial or intuitive, it wasn’t truly intuitive—it only seems that way because you’ve built up the necessary knowledge base through hard work and trial and error. The wrong paths you take still add to your understanding.
+So, when is the &amp;ldquo;output over input&amp;rdquo; mindset useful? It helps when you start feeling overwhelmed by the effort required to reach a solution. From the outside, the final result might look simple and intuitive, but you know the depth of effort behind it. Keeping your focus on the output can help you push through without letting the difficulty of the process slow you down.
+A perfect example is Albert Einstein. When he developed the theory of general relativity, it might seem obvious to us today, but it wasn’t intuitive back then. He spent nearly a decade wrestling with complex mathematics, rethinking assumptions, and even seeking help from others. The journey was long, but Einstein didn’t get caught up in the difficulty. He remained focused on the result. Even after achieving success in 1919, Einstein didn’t rest. He continued pushing boundaries, tackling new challenges like quantum mechanics and the search for a unified field theory.
+Einstein’s ability to focus on the output, rather than getting bogged down by the input, serves as a powerful reminder. Sometimes, we get overwhelmed by the effort, but by keeping our eyes on the outcome, we can keep moving forward.&lt;/p&gt;
+&lt;p&gt;Signing off &lt;br&gt;
+&lt;a href=&#34;https://github.com/adi4comp&#34;&gt;Aditya Ranjan Jha&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Regrets</title>
       <link>https://adi4blogs.netlify.app/posts/blog-entry-11/</link>
