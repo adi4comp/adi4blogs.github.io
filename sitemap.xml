@@ -2,25 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://adi4blogs.netlify.app/posts/blog-entry-19/</loc>
+    <lastmod>2024-11-16T23:30:29+08:00</lastmod>
+  </url><url>
+    <loc>https://adi4blogs.netlify.app/</loc>
+    <lastmod>2024-11-16T23:30:29+08:00</lastmod>
+  </url><url>
+    <loc>https://adi4blogs.netlify.app/categories/</loc>
+    <lastmod>2024-11-16T23:30:29+08:00</lastmod>
+  </url><url>
+    <loc>https://adi4blogs.netlify.app/categories/note-to-self/</loc>
+    <lastmod>2024-11-16T23:30:29+08:00</lastmod>
+  </url><url>
+    <loc>https://adi4blogs.netlify.app/posts/</loc>
+    <lastmod>2024-11-16T23:30:29+08:00</lastmod>
+  </url><url>
+    <loc>https://adi4blogs.netlify.app/tags/</loc>
+    <lastmod>2024-11-16T23:30:29+08:00</lastmod>
+  </url><url>
+    <loc>https://adi4blogs.netlify.app/tags/watch-me-grow/</loc>
+    <lastmod>2024-11-16T23:30:29+08:00</lastmod>
+  </url><url>
+    <loc>https://adi4blogs.netlify.app/tags/wisdom-from-past-self/</loc>
+    <lastmod>2024-11-16T23:30:29+08:00</lastmod>
+  </url><url>
     <loc>https://adi4blogs.netlify.app/posts/blog-entry-18/</loc>
     <lastmod>2024-11-04T15:10:07+08:00</lastmod>
   </url><url>
-    <loc>https://adi4blogs.netlify.app/</loc>
-    <lastmod>2024-11-04T15:10:07+08:00</lastmod>
-  </url><url>
-    <loc>https://adi4blogs.netlify.app/categories/</loc>
-    <lastmod>2024-11-04T15:10:07+08:00</lastmod>
-  </url><url>
-    <loc>https://adi4blogs.netlify.app/categories/note-to-self/</loc>
-    <lastmod>2024-11-04T15:10:07+08:00</lastmod>
-  </url><url>
-    <loc>https://adi4blogs.netlify.app/posts/</loc>
-    <lastmod>2024-11-04T15:10:07+08:00</lastmod>
-  </url><url>
     <loc>https://adi4blogs.netlify.app/tags/retrospection/</loc>
-    <lastmod>2024-11-04T15:10:07+08:00</lastmod>
-  </url><url>
-    <loc>https://adi4blogs.netlify.app/tags/</loc>
     <lastmod>2024-11-04T15:10:07+08:00</lastmod>
   </url><url>
     <loc>https://adi4blogs.netlify.app/categories/random-thoughts/</loc>
@@ -36,9 +45,6 @@
     <lastmod>2024-10-20T22:38:37+08:00</lastmod>
   </url><url>
     <loc>https://adi4blogs.netlify.app/categories/til/</loc>
-    <lastmod>2024-10-20T22:38:37+08:00</lastmod>
-  </url><url>
-    <loc>https://adi4blogs.netlify.app/tags/watch-me-grow/</loc>
     <lastmod>2024-10-20T22:38:37+08:00</lastmod>
   </url><url>
     <loc>https://adi4blogs.netlify.app/tags/rants/</loc>
